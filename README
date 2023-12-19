@@ -38,3 +38,11 @@ git mv elnombrearchivo.js   elNombrequeruiro.js
 
 informacion 
 git log     solo o con --oneline
+
+
+
+cambiar de ramas
+git checkout nombreRama
+
+traer informacion de la rama secundaria a la principal
+git merge Ramasecundaria
