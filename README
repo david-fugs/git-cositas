@@ -41,8 +41,21 @@ git log     solo o con --oneline
 
 
 
+
 cambiar de ramas
 git checkout nombreRama
 
 traer informacion de la rama secundaria a la principal
 git merge Ramasecundaria
+
+
+saber en que rama estamos
+git branch
+
+como crear ramas
+ git checkout -b nombreDelaRama
+
+cat nombreArchivo.txt para ver toda la informacion del archivos
+
+como pasar informacion de las ramas
+
