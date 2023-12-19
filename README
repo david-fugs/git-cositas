@@ -36,4 +36,5 @@ git restore --staged nombreArchivo.js
 cambiar nombres de archivos
 git mv elnombrearchivo.js   elNombrequeruiro.js
 
-
+informacion 
+git log     solo o con --oneline
