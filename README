@@ -1,0 +1,29 @@
+//configuracion
+
+git config --global 
+
+
+ git config --global user.name David lop"
+
+email: 
+git config --global user.email fulgore0142@gmail.com
+
+vs editor por defecto 
+ git config --global core.editor "code --wait"
+
+git config --goblal core.autocrlf true
+
+carpetas
+cd entrar 
+salir cd ..
+
+crear carpetas
+mkdir nombreAplicacion
+
+git init obvio pues
+
+git add . o puede ser.txt o las extensiones 
+
+
+
+
