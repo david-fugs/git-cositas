@@ -26,5 +26,14 @@ git add . o puede ser.txt o las extensiones
 
 git commit -m "primer commit"
 
+para eliminar
+rm nombreArchivo.txt o la extension pues
+
+
+recuperar archivos
+git restore --staged nombreArchivo.js
+
+cambiar nombres de archivos
+git mv elnombrearchivo.js   elNombrequeruiro.js
 
 
