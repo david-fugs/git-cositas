@@ -24,6 +24,7 @@ git init obvio pues
 
 git add . o puede ser.txt o las extensiones 
 
+git commit -m "primer commit"
 
 
 
