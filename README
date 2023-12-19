@@ -38,3 +38,9 @@ git mv elnombrearchivo.js   elNombrequeruiro.js
 
 informacion 
 git log     solo o con --oneline
+
+saber en que rama estamos
+git branch
+
+como crear ramas
+ git checkout -b nombreDelaRama
